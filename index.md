@@ -10,4 +10,7 @@ Neal Town Stephenson (* 31. Oktober 1959 in Fort Meade, Maryland, USA) ist ein i
 * Matapheroes
 
 ## Zitat von N.S.
-> Ein Freund von mir drückt es gerne so aus: Wir haben nur 30.000 Tage zu leben. Ich habe bereits mehr als 17.000 davon verbraucht. Ein räumliches Internet ist eine interessante Idee, aber es gibt andere spannende Möglichkeiten meine verbleibenden 13.000 Tage zu nutzen. In dieser Zeit könnte ich großartige Menschen treffen, Zeit mit meinen Lieben verbringen, gute Bücher lesen oder schöne Teile der Erde besuchen. Wenn ich auf meinem Totenbett liege, werde ich kaum sagen: Ich wünschte, ich hätte mehr Zeit damit verbracht, auf meinem Arsch zu sitzen und auf Pixel zu starren. 
+> Ein Freund von mir drückt es gerne so aus: Wir haben nur 30.000 Tage zu leben. Ich habe bereits mehr als 17.000 davon verbraucht. Ein räumliches Internet ist eine interessante Idee, aber es gibt andere spannende Möglichkeiten meine verbleibenden 13.000 Tage zu nutzen. In dieser Zeit könnte ich großartige Menschen treffen, Zeit mit meinen Lieben verbringen, gute Bücher lesen oder schöne Teile der Erde besuchen. Wenn ich auf meinem Totenbett liege, werde ich kaum sagen: Ich wünschte, ich hätte mehr Zeit damit verbracht, auf meinem Arsch zu sitzen und auf Pixel zu starren.
+
+
+![Neal Stephensen](/pix/Neal.jpg)
